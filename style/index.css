@@ -1,0 +1,8 @@
+
+@import './variables.css';
+@import './partials/common.css';
+@import './partials/header.css';
+@import './partials/nav.css';
+@import './partials/footer.css';
+
+@import './partials/articles.css';

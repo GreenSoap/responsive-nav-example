@@ -1,0 +1,16 @@
+{
+  "name": "responsive-nav-example",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenSoap/responsive-nav-example.git"
+  },
+  "author": "greensoap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenSoap/responsive-nav-example/issues"
+  },
+  "homepage": "https://github.com/GreenSoap/responsive-nav-example#readme"
+}

@@ -1,0 +1,18 @@
+body > footer {
+  display: flex;
+  padding: 15px 10px;
+  justify-content: center;
+  align-items: baseline;
+  background-color: var(--secondary-dark-layout-color);
+  z-index: calc(var(--mobile-nav-menu-z-index) + 1);
+}
+
+body > footer a {
+  color: #80ffdb;
+  font-weight: bold;
+  transition: color .2s ease-out;
+}
+
+body > footer a:hover {
+  color: #fff;
+}

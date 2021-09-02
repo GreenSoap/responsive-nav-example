@@ -1,0 +1,32 @@
+.greeting-article {
+  margin: 80px auto;
+  background-color: black;
+  text-align: center;
+  padding: 20px 10px 6px;
+  max-width: 500px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgb(0 0 0 / 40%);
+  color: #fff;
+  overflow: hidden;
+}
+
+.greeting-article > p {
+  margin: 20px 0;
+}
+
+.greeting-article > h1 > strong {
+  color: gold;
+}
+
+.cage-img{
+  width: 500px;
+  max-width: 100%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+@media screen and (max-width: 525px){
+  .greeting-article{
+    border-radius: 0;
+  }
+}

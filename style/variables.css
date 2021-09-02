@@ -1,0 +1,12 @@
+/*Variables*/
+:root{
+  --primary-dark-layout-color: #320f77;
+  --secondary-dark-layout-color: #5e548e;
+  --primary-light-layout-color: #e8e8e8;
+  --secondary-light-layout-color: #fff;
+  --page-header-height: 50px;
+  --nav-link-color: #f72585;
+  --mobile-nav-menu-z-index: 2000;
+
+  --mobile-width-breakpoint: 600px;
+}

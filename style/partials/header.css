@@ -1,0 +1,8 @@
+body > header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 5px;
+  background-color: var(--primary-dark-layout-color);
+  height: var(--page-header-height);
+}
